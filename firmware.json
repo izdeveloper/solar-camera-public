@@ -1,0 +1,7 @@
+{
+    "type": "esp32-fota-http",
+    "version": 2,
+    "host": "raw.githubusercontent.com",
+    "port": 443,
+    "bin": "/izdeveloper/solar-camera-public/master/firmware.bin"
+}
